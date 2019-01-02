@@ -2,7 +2,7 @@ public class TestNames  {
     
     public static void main(String[] args){
 
-        Name n1 = new Name("Michael","Sebastian","Mauro");
+        Name n1 = new Name("John","Farquad","Smith");
         
         System.out.println(n1.firstMiddleLast());
         System.out.println(n1.lastFirstMiddle());

@@ -1,3 +1,5 @@
+//this class does not have a main method, the next class does
+
 
 public class Name {
 
